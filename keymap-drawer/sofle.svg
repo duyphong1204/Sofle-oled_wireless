@@ -375,22 +375,6 @@ path.combo {
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">DEL</text>
 </g>
-<g class="combo combopos-0">
-<path d="M388,122 l121,77" class="combo"/>
-<path d="M388,122 l-121,-77" class="combo"/>
-<rect rx="6" ry="6" x="374" y="110" width="28" height="26" class="combo"/>
-<a href="#layer_4">
-<text x="388" y="122" class="combo tap layer-activator">layer_4</text>
-</a><text x="388" y="134" class="combo hold">toggle</text>
-</g>
-<g class="combo combopos-1">
-<path d="M416,126 l94,73" class="combo"/>
-<path d="M416,126 l-94,-73" class="combo"/>
-<rect rx="6" ry="6" x="402" y="113" width="28" height="26" class="combo"/>
-<a href="#layer_5">
-<text x="416" y="126" class="combo tap layer-activator">layer_5</text>
-</a><text x="416" y="137" class="combo hold">toggle</text>
-</g>
 </g>
 </g>
 <g transform="translate(30, 398)" class="layer-lower">
