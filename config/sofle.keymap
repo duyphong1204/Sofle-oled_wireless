@@ -29,21 +29,7 @@
         };
     };
 
-    combos {
-        compatible = "zmk,combos";
-
-        ToLa4 {
-            bindings = <&tog 4>;
-            key-positions = <43 4>;
-            layers = <0>;
-        };
-
-        ToLa5 {
-            bindings = <&tog 5>;
-            key-positions = <43 5>;
-            layers = <0>;
-        };
-    };
+    combos { compatible = "zmk,combos"; };
 
     keymap {
         compatible = "zmk,keymap";
